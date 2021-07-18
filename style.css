@@ -1,0 +1,101 @@
+.Text{
+  position: relative;
+  left: 7.5rem;
+  height: 446px;
+  width: 540px;
+  font-family: 'Arial',serif;
+  text-align: center;
+  background-color:hsl(244, 38%, 16%);
+}
+.picture{
+  position: relative;
+  right: 7.5rem;
+  float: right;
+
+}
+.attribution{
+  clear: right;
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+}
+body{
+  margin: auto;
+  background-color: hsl(233, 47%, 7%);
+}
+h1{
+  color: white;
+  text-align: left;
+  margin: auto;
+  width: 70%;
+  padding: 10%;
+  margin-top: 2rem;
+}
+span{
+  color: hsl(277, 64%, 61%);
+}
+h5{
+  color: white;
+  text-align: left;
+  width: 70%;
+  margin: auto;
+  line-height: 1.5;
+  font-size: 0.8rem;
+}
+.content{
+  position: relative;
+  margin: 100px;
+}
+table{
+  margin-left: 12%;
+  padding: 5%;
+}
+h2{
+  margin: auto;
+  color: white;
+  display: inline-block;
+  width: 30%;
+}
+.bottom1{
+  display: inline-block;
+  width: 30%;
+  position: relative;
+  left: 2.2rem;
+
+}
+.bottom2{
+  display: inline-block;
+  width: 30%;
+  position: relative;
+  left: 2.3rem;
+
+}
+.bottom3{
+  display: inline-block;
+  width: 30%;
+  position: relative;
+  left: 1.9rem;
+
+}
+.number_section{
+  position: absolute;
+  margin-top: 4rem;
+  left: 2rem;
+  line-height: 1.5;
+}
+.Second_para{
+
+  margin-bottom: 1.5rem;
+}
+.attribution{
+  color: white;
+}
+.layer{
+  background-color: hsl(277, 64%, 61%);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 99%;
+  opacity: 0.5  ;
+}
